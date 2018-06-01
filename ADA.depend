@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1526126025 source:/Users/ANJALI/Desktop/ADA/bfs.cc
+	<iostream>
+	<stdlib.h>
+
+1526132039 source:/Users/ANJALI/Desktop/ADA/horsepool.cc
+	<iostream>
+	<string.h>
+
+1526155530 source:/Users/ANJALI/Desktop/ADA/warshall.cc
+	<iostream>
+	<stdlib.h>
+
+1526156443 source:/Users/ANJALI/Desktop/ADA/binomial.cc
+	<iostream>
+
+1526192801 source:/Users/ANJALI/Desktop/ADA/linearSearch.cc
+	<iostream>
+	<stdlib.h>
+
+1526236823 source:/Users/ANJALI/Desktop/ADA/insertionsort.cc
+	<iostream>
+	<stdio.h>
+
+1526231949 source:/Users/ANJALI/Desktop/ADA/mergesort.cc
+	<iostream>
+	<stdio.h>
+
+1526236932 source:/Users/ANJALI/Desktop/ADA/mergeSortt.cc
+	<iostream>
+	<stdlib.h>
+
+1526297698 source:/Users/ANJALI/Desktop/ADA/heapsort.cc
+	<iostream>
+	<stdio.h>
+
+1526297919 source:/Users/ANJALI/Desktop/ADA/topologicalsort.cc
+	<iostream>
+
+1526322035 source:/Users/ANJALI/Desktop/ADA/topological.cc
+	<iostream>
+
+1526329022 source:/Users/ANJALI/Desktop/ADA/krusk.c
+	<stdio.h>
+	<stdlib.h>
+
+1526330288 source:/Users/ANJALI/Desktop/ADA/prims_algo.cc
+	<stdio.h>
+	<iostream>
+
+1526500111 source:/Users/ANJALI/Desktop/ADA/nQueen.cc
+	<iostream>
+	<cstdio>
+	<cstdlib>
+
+1526550508 source:/Users/ANJALI/Desktop/ADA/kruskal_algo.cc
+	<stdio.h>
+	<iostream>
+
+1526569689 source:/Users/ANJALI/Desktop/ADA/subset.cc
+	<iostream>
+	<stdio.h>
+
